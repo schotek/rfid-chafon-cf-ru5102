@@ -14,7 +14,7 @@ _Note_: Excuse my English and don't be afraid to fix it :)
 
 ## Description of function
 
-Communication with the reader takes place via the USB port (more precisely the serial port consisting of the built-in converter CP210x). Everything is set in the .settings.json file:
+Communication with the reader takes place via the USB port (more precisely the serial port consisting of the built-in converter CP210x). Everything is set in the _.settings.json_ file:
 
     {
     "RU5102": {
