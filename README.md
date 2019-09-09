@@ -2,7 +2,7 @@
 
 In one of our projects, we needed to implement basic support for a USB RFID UHF card reader. We use Chafon CF-RU5102.
 
-This library was created (one _./system/rfid-chafon-cf-ru5102.js_ file), which can be easily used in another project based on NodeJS.
+This library (one _./system/rfid-chafon-cf-ru5102.js_ file) was created as easy and standalone as possible, therefore can be easily used in another projects based on NodeJS.
 
 Everything is functional on both x86 / a64 and Arm platforms (we have successfully tested both Raspberry Pi and Latte Panda). However, it should not be a problem to use it on both macOS and Windows.
 
