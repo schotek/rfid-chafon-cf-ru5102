@@ -33,7 +33,7 @@ There are also other parameters:
 
 Currently, the library can retrieve the stored EPC number from a card or Tag, and can also read a TID for a particular tag (by modifying the code, however, you can read the contents of the User Memory). In the CF-RU5102 reader it is not possible to read the TID directly. Yes, this reader is not very suitable where it is necessary to read TID primarily.
 
-The library can also handle situations in which the reader loads multiple tags simultaneously. In this case, the EPC loading is error-free, there may be no time to load the TID correctly.
+The library can also handle situations in which the reader loads multiple tags simultaneously. In this case, the EPC loading is error-free, but there may be no time to load the TID correctly.
 
 ## Planned features
 
