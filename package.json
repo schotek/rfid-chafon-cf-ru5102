@@ -1,0 +1,19 @@
+{
+  "name": "rfid-chafon-cf-ru5102",
+  "version": "1.0.0",
+  "description": "NodeJS library for Chafon CF-RU5102 USB UHF RFID reader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlada Janecek",
+  "license": "Postcardware",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "moment": "^2.24.0",
+    "node-cmd": "^3.0.0",
+    "promisify": "0.0.3",
+    "promisify-node": "^0.5.0",
+    "serialport": "^7.1.5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "RU5102": {
+        "port": "/dev/ttyRU5102",
+        "read_interval": 100,
+        "scan_timeout": 10
+    }
+}
