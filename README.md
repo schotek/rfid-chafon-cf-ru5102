@@ -10,7 +10,7 @@ This is what you can see in system log if you scan your tag:
 
 ![Running example](./documents/running.png)
 
-_Note_: Excuse my English and don't be afraid to fix it :)
+_Note_: Excuse my English and don't be afraid to fix this text :)
 
 ## Description of function
 
