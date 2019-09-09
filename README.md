@@ -6,6 +6,8 @@ This library was created (one _./system/rfid-chafon-cf-ru5102.js_ file), which c
 
 Everything is functional on both x86 / a64 and Arm platforms (we have successfully tested both Raspberry Pi and Latte Panda). However, it should not be a problem to use it on both macOS and Windows.
 
+This is what you can see in system log if you scan your tag:
+
 ![Running example](./documents/running.png)
 
 Note: Excuse my English and don't be afraid to fix it :)
